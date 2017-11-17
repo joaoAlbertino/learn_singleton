@@ -1,0 +1,26 @@
+body{
+	background-color:#DCDCDC;
+	
+	
+}
+
+#title, #divDados{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 50px;
+	
+}
+
+
+#btnAction , #txtInputText{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 50px;
+	width:500px;
+	
+}
+
+.container {
+	margin-top:12%;
+	margin-left:30%;
+	
+}
+
